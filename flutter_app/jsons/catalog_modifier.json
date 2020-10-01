@@ -1,0 +1,8 @@
+{
+  "default_modifier_option_id": 2,
+  "display_mode": "slider",
+  "id": 1,
+  "modifier_name": "Ice Level",
+  "multiple_select": false,
+  "options": "$[]catalog_modifier_option"
+}
